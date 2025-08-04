@@ -342,3 +342,4 @@ Thanks also to the authors of Stable Diffusion, ControlNet, and EbSynth for thei
   howpublished = {\url{https://github.com/jamriska/ebsynth}},
 }
 ```
+
